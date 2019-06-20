@@ -39,7 +39,7 @@
         "Mulesoft API Gateway",
         "Openshift"
       ],
-      "summary": "Lead engineer in a team responsible for building a new Barclays IDV (identification and verification) platform from scratch using micro services architecture. Involved at all stages of the software development lifecycle including requirements gathering and definition, design, build/test"
+      "summary": "Lead engineer in a team responsible for building a new Barclays IDV (identification and verification) platform from scratch using a RESTful micro services architecture. Involved at all stages of the software development lifecycle including requirements gathering and definition, design, build and test"
     },
     {
       "company": "Travis Perkins PLC",
@@ -111,10 +111,50 @@
       "gpa": "2:1"
     }
   ],
+  "skills": [
+    {
+      "name": "Test driven development"
+    },
+    {
+      "name": "Behaviour driven development"
+    },
+    {
+      "name": "Application design"
+    },
+    {
+      "name": "System architecture"
+    },
+    {
+      "name": "Team leadership"
+    },
+    {
+      "name": "Continuous integration"
+    },
+    {
+      "name": "Java"
+    },
+    {
+      "name": "Docker"
+    },
+    {
+      "name": "Jenkins"
+    },
+    {
+      "name": "AWS"
+    },
+    {
+      "name": "Mulesoft"
+    },
+    {
+      "name": "WSO2 Suite"
+    },
+    {
+      "name": "Talend"
+    }
+  ],
   "languages": [
     {
       "language": "English",
-      "name": "gb",
       "level": "Native Speaker",
       "fluency": "Native Speaker"
     }
