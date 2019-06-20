@@ -1,0 +1,133 @@
+{
+  "basics": {
+    "name": "Michael Ruocco",
+    "label": "Lead Software Engineer",
+    "email": "michael.ruocco@hotmail.com",
+    "phone": "07809385580",
+    "website": "https://github.com/michaelruocco",
+    "summary": "A confident, lively, hard working and motivated individual with a desire to succeed. Over 12 years experience in analysing, designing, building, testing and implementing software solutions across a wide range of business areas. Passionate about solving problems and delivering business value regardless of the technologies or methodologies being used, but with a strong belief in using Agile methodologies including Test Driven Development, Behaviour Driven Development and Continuous Integration. A very quick learner that thrives on working with a range of technologies and ways of working, most recently working day to day on micro services platform for IDV (identification and verification) built in Java using Spring Boot. Equally comfortable discussing detailed technical issues or complex business requirements, and able to work with a variety of personalities. Able to operate at both an architecture level, focusing on the overall system view, as well as diving in at a detailed technical level to pick up and solve problems quickly.",
+    "location": {
+      "address": "20 Tiffany Gardens",
+      "postalCode": "NN4 0TJ",
+      "city": "Northampton"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "michael-ruocco-7a358166",
+        "url": "https://www.linkedin.com/in/michael-ruocco-7a358166"
+      },
+      {
+        "network": "GitHub",
+        "username": "michaelruocco",
+        "url": "https://github.com/michaelruocco"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Barclays",
+      "position": "Lead Software Engineer - Fraud Platforms",
+      "startDate": "2018-01-01",
+      "keywords": [
+        "Jenkins",
+        "Java",
+        "Docker",
+        "Spring Boot",
+        "Microservices",
+        "REST",
+        "Mulesoft API Gateway",
+        "Openshift"
+      ],
+      "summary": "Lead engineer in a team responsible for building a new Barclays IDV (identification and verification) platform from scratch using micro services architecture. Involved at all stages of the software development lifecycle including requirements gathering and definition, design, build/test"
+    },
+    {
+      "company": "Travis Perkins PLC",
+      "position": "Technical Architect",
+      "startDate": "2014-07-01",
+      "endDate": "2017-12-01",
+      "keywords": [
+        "Jenkins",
+        "Java",
+        "Docker",
+        "Spring",
+        "WS02",
+        "Talend",
+        "Managed File Transfer (Go Anywhere MFT)",
+        "Universe Basic",
+        "Integation",
+        "Microservices",
+        "REST"
+      ],
+      "summary": "Involved in designing building and testing integration solutions for a large business transformation program across a number of different teams based in the UK, Sri Lanka and Spain. Solutions were comprised of a variety of tools including Java, the WS02 Integration Suite, Talend, Go Anywhere MFT."
+    },
+    {
+      "company": "Travis Perkins PLC",
+      "position": "Senior Software Engineer",
+      "startDate": "2010-05-01",
+      "endDate": "2014-07-01",
+      "keywords": [
+        "Hybris",
+        "Java",
+        "Spring",
+        "Jenkins",
+        "Ecommerce",
+        "Google App Engine",
+        "REST"
+      ],
+      "summary": "Lead engineer in a team responsible for developing a number of major projects on the Travis Perkins Ecommerce platform built on top of Hybris. Some major projects included implementing the integration with Verifone and later TLG (The Logic Group) and building a day of choice fulfilment engine on Google App Engine."
+    },
+    {
+      "company": "Travis Perkins PLC",
+      "position": "Software Engineer",
+      "startDate": "2007-08-01",
+      "endDate": "2010-05-01",
+      "keywords": [
+        "ASP.Net",
+        "C#",
+        "Java",
+        "Universe Basic"
+      ],
+      "summary": "Worked in various teams on a number of projects and systems. Worked within a small team of 3 to design and build a system in ASP.Net to manage complex customer pricing agreements across the whole Travis Perkins Group from scratch. Developed a unit testing framework for a legacy platform that was used to build all core Travis Perkins systems called Universe Basic that was eventually adopted across the whole department."
+    },
+    {
+      "company": "Travis Perkins PLC",
+      "position": "Trainee Software Engineer",
+      "startDate": "2007-08-01",
+      "endDate": "2010-05-01",
+      "keywords": [
+        "Java",
+        "Universe Basic"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Warwick",
+      "area": "Computer Science and Business Studies",
+      "studyType": "Bachelors Degree",
+      "startDate": "2003-09-01",
+      "endDate": "2006-05-01",
+      "gpa": "2:1"
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "name": "gb",
+      "level": "Native Speaker",
+      "fluency": "Native Speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Football"
+    },
+    {
+      "name": "Exercise"
+    },
+    {
+      "name": "Travel"
+    }
+  ]
+}
