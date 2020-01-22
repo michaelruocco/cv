@@ -39,7 +39,7 @@
         "Mulesoft API Gateway",
         "Openshift"
       ],
-      "summary": "Lead engineer in a team responsible for building a new Barclays IDV (identification and verification) platform from scratch using a RESTful micro services architecture. Involved at all stages of the software development lifecycle including requirements gathering and definition, design, build and test"
+      "summary": "Lead engineer in a team responsible for building a new Barclays IDV (identification and verification) platform from scratch using a RESTful micro services architecture. Involved at all stages of the software development lifecycle including requirements gathering and definition, design, build and test. Also played a key role in building and maintaining CI pipeline using Jenkinsfile."
     },
     {
       "company": "Travis Perkins PLC",
